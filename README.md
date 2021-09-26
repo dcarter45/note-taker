@@ -19,7 +19,7 @@ Run `npm install` to install all dependencies. To use the application locally, r
 ![Application Preview](demo.gif)
 
 ## Deployed Link:
-[Note Taker App](https://git.heroku.com/tranquil-cove-04314.git)
+[Note Taker App](https://dcarter45.github.io/note-taker/)
 
 ## Learning Points:
 * This app was a practice in writing the backend code only and then integrating it with provided front end code.
